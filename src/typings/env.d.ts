@@ -3,5 +3,4 @@ declare module "*.vue" {
   export default component;
 }
 
-
 module "*.json";
